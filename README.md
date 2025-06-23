@@ -1,4 +1,4 @@
-##Hello, I'm Advait 😆
+Hello, I'm Advait 😆
 
 🖥️ Computer Science student at RCOEM
 
