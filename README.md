@@ -3,7 +3,7 @@ Hello, I'm Advait 😆
 🖥️ Computer Science student at RCOEM
 
 
- https://leetcard.jacoblin.cool/AdvaitPalve?theme=forest
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/AdvaitPalve?theme=neon&layout=card&border=true&hide_title=false&logo=true&animation=true&animation_duration=2s&show_stats=false&font=Roboto)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
