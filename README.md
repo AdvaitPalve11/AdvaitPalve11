@@ -1,6 +1,6 @@
 Hello, I'm Advait 😆
 
-🖥️ Computer Science student at RCOEM
+🖥️ Computer Science student 
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AdvaitPalve)
 <br>
